@@ -1,0 +1,6 @@
+# Esercizio 27 pagina 182
+
+if ( $args -gt 10 && $args != null)	# se il num. inserito è maggiore di 10 e se è stato inserito un parametro
+    echo maggiore di 10			# scrive: ...
+else					# altrimenti
+    echo minore o uguale a 10		# scrive: ... 

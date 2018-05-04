@@ -1,0 +1,3 @@
+# Esercizio 18 pagina 181
+
+get-help about_escape_character | tee "Escape.txt"  # Scrive sul nuovo file l'output di get-help ...
